@@ -1,3 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Action 4K 
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/284597.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/494.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/127882.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360924.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360925.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star + 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 1 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 1 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/229981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 2 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/229984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN3
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/229988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN4
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/229989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN5
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/229990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN6
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/229991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star + 3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 3 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star + 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 2 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star + 4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 4 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star + 5 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 5 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star + 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 6 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232247.m3u8
