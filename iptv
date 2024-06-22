@@ -3,6 +3,12 @@
 http://uniplay.link0101.com:80/live/22660845/y290Q4503h/494.m3u8
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 H265
 http://uniplay.link0101.com:80/live/22660845/y290Q4503h/127882.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360924.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360925.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360926.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star + 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 1 FHD
 http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232230.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 1 FHD
