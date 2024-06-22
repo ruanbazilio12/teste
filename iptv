@@ -1,5 +1,87 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN3 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN3 4K 
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/284580.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC  4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | 4K",AMC  4K 
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/284602.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/494.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes UHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/21269.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/52089.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/492.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes HD²
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/493.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes SD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/491.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/499.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 UHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/21266.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/127882.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 HD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/497.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 HD²
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/498.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 SD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/496.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/504.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 UHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/21267.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360924.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 HD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/502.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 HD²
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/503.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 SD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/501.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/509.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 UHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/21327.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360925.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 HD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/507.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 HD²
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/508.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 SD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/506.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/514.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 UHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/21268.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360926.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 HD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/512.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 HD²
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/513.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 SD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/511.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/519.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 UHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/21328.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360927.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 HD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/517.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 HD²
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/518.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 SD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/516.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/524.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 UHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/21329.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/360928.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 HD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/522.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 HD²
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/523.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 SD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/521.m3u8
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 8 SD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/526.m3u8
