@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes FHD
 http://uniplay.link0101.com:80/live/22660845/y290Q4503h/494.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 H265
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/127882.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star + 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 1 FHD
 http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232230.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 1 FHD
@@ -25,17 +27,4 @@ http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232242.m3u8
 http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232246.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star + 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 6 FHD
 http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 1
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/231034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 2
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/231035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 3
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/231036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 4
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/231037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 5
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/231038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 6
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/231039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 7" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 7
-http://uniplay.link0101.com:80/live/22660845/y290Q4503h/231040.m3u8
+
