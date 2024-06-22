@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes FHD
 http://uniplay.link0101.com:80/live/22660845/y290Q4503h/494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star + 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 1 FHD
+http://uniplay.link0101.com:80/live/22660845/y290Q4503h/232230.m3u8
